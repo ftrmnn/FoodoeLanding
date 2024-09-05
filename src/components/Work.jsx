@@ -12,17 +12,17 @@ const Work = () => {
 
     const workInfoData = [
         {
-            image: "./public/pick-meals-image.png",
+            image: "/pick-meals-image.png",
             title: "Pick Meals",
             text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt expedita blanditiis explicabo excepturi, commodi qui dolorum amet adipisci perspiciatis laudantium, esse.",
         },
         {
-            image: "./public/delivery-image.png",
+            image: "/delivery-image.png",
             title: "Fast Delivery",
             text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt expedita blanditiis explicabo excepturi, commodi qui dolorum amet adipisci perspiciatis laudantium, esse.",
         },
         {
-            image: "./public/choose-image.png",
+            image: "/choose-image.png",
             title: "Enjoy Your Meal",
             text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt expedita blanditiis explicabo excepturi, commodi qui dolorum amet adipisci perspiciatis laudantium, esse.",
         },
