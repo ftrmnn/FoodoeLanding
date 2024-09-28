@@ -34,6 +34,8 @@ const Footer = () => {
                     <ul>
                         <li>244-5333-7783</li>
                         <li>hello@foodoe.com</li>
+                        <li>press@food.com</li>
+                        <li>Contact</li>
                     </ul>
                 </div>
                 <div>
