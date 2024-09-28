@@ -19,7 +19,7 @@ export default function About() {
                 <div className="flex ">
                     <button className="mt-6 p-2 rounded-lg bg-yellow-500 text-white text-lg transition-all hover:scale-105">Learn More</button>
                     <FaPlayCircle className="mt-8 ml-10 text-4xl"/>
-                    <h3 className="mt-9 ml-3">Watch Video</h3>
+                    
                 </div>
             </div>
         </div>
